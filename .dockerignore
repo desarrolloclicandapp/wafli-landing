@@ -1,0 +1,5 @@
+.git
+review
+*.log
+Thumbs.db
+.DS_Store
